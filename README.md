@@ -1,0 +1,1 @@
+This was used as a proof of concept that it is possible to enable or disable autoRCM from homebrew. I was given permission from the author to post it. Neither the author nor I are responsible for anything that happens when you use this code.
